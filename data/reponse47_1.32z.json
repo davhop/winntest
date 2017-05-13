@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Préaux",
+               "short_name" : "Préaux",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Indre",
+               "short_name" : "Indre",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Centre-Val de Loire",
+               "short_name" : "Centre-Val de Loire",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "36240",
+               "short_name" : "36240",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "36240 Préaux, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.063404,
+                  "lng" : 1.346238
+               },
+               "southwest" : {
+                  "lat" : 46.9963029,
+                  "lng" : 1.2474558
+               }
+            },
+            "location" : {
+               "lat" : 47.0212999,
+               "lng" : 1.2919639
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.063404,
+                  "lng" : 1.346238
+               },
+               "southwest" : {
+                  "lat" : 46.9963029,
+                  "lng" : 1.2474558
+               }
+            }
+         },
+         "place_id" : "ChIJF8lHdoWd_EcRlU55uM8w5rY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

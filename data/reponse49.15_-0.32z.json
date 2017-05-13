@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cormelles-le-Royal",
+               "short_name" : "Cormelles-le-Royal",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Calvados",
+               "short_name" : "Calvados",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Normandy",
+               "short_name" : "Normandy",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cormelles-le-Royal, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.16698400000001,
+                  "lng" : -0.309255
+               },
+               "southwest" : {
+                  "lat" : 49.144188,
+                  "lng" : -0.3431651
+               }
+            },
+            "location" : {
+               "lat" : 49.15486199999999,
+               "lng" : -0.332445
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.16698400000001,
+                  "lng" : -0.309255
+               },
+               "southwest" : {
+                  "lat" : 49.144188,
+                  "lng" : -0.3431651
+               }
+            }
+         },
+         "place_id" : "ChIJ1bSqSclpCkgR7rWKiK3oIOk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

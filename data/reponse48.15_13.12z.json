@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Helpfau-Uttendorf",
+               "short_name" : "Helpfau-Uttendorf",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gemeinde Helpfau-Uttendorf",
+               "short_name" : "Gemeinde Helpfau-Uttendorf",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Braunau am Inn District",
+               "short_name" : "Braunau am Inn District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Upper Austria",
+               "short_name" : "Upper Austria",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Austria",
+               "short_name" : "AT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Helpfau-Uttendorf, Austria",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.18579,
+                  "lng" : 13.19352
+               },
+               "southwest" : {
+                  "lat" : 48.13055,
+                  "lng" : 13.08683
+               }
+            },
+            "location" : {
+               "lat" : 48.1539343,
+               "lng" : 13.1182186
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.18579,
+                  "lng" : 13.19352
+               },
+               "southwest" : {
+                  "lat" : 48.13055,
+                  "lng" : 13.08683
+               }
+            }
+         },
+         "place_id" : "ChIJKwuif2AwdEcRiAm7ayWwRpk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

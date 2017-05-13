@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Torcé-Viviers-en-Charnie",
+               "short_name" : "Torcé-Viviers-en-Charnie",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mayenne",
+               "short_name" : "Mayenne",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pays de la Loire",
+               "short_name" : "Pays de la Loire",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "53270",
+               "short_name" : "53270",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "53270 Torcé-Viviers-en-Charnie, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.1378011,
+                  "lng" : -0.215253
+               },
+               "southwest" : {
+                  "lat" : 48.058381,
+                  "lng" : -0.331407
+               }
+            },
+            "location" : {
+               "lat" : 48.09881799999999,
+               "lng" : -0.26172
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.1378011,
+                  "lng" : -0.215253
+               },
+               "southwest" : {
+                  "lat" : 48.058381,
+                  "lng" : -0.331407
+               }
+            }
+         },
+         "place_id" : "ChIJRzAqtD_LCUgR4A4NHlI3DQQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
