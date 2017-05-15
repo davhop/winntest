@@ -295,7 +295,7 @@ class Transport {
      * @param {Number } lon
      * @returns {Object}
      */
-    static position(lat,lon){
+    static position(lat,lon,path){
          const lieu = require('../../data/reponse' + lat + '_' + lon + 'z.json');
          let result = [];
             for (let i of lieu.results){
