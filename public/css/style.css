@@ -1,0 +1,19 @@
+ .well,.jumbotron{
+    background-color: #f5f3d9;
+}
+body{
+    font-family: Georgia, serif;
+    color:#636363;	
+    background-color: #e6b392;
+}
+
+.suppress{
+    margin-top: 41px;
+}
+label {
+    white-space: normal;
+}
+form div{
+    margin-bottom:20px;
+}
+
